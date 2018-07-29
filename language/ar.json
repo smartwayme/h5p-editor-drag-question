@@ -1,16 +1,16 @@
 {
   "libraryStrings":{
-    "insertElement":"Add :type",
-    "done":"Done",
-    "remove":"Remove",
-    "image":"Image",
-    "text":"Text",
-    "noTaskSize":"Please specify task size first.",
-    "confirmRemoval":"Are you sure you wish to remove this element?",
-    "backgroundOpacityOverridden":"The background opacity is overridden",
-    "advancedtext":"Text",
-    "dropzone":"Drop Zone",
-    "selectAll":"Select all",
-    "deselectAll":"Deselect all"
+    "insertElement":"اضافة :type",
+    "done":"قام به",
+    "remove":"حذف",
+    "image":"صورة",
+    "text":"نص",
+    "noTaskSize":"يرجى تحديد حجم المهمة أولا.",
+    "confirmRemoval":"هل أنت متأكد من أنك تريد إزالة هذا العنصر؟",
+    "backgroundOpacityOverridden":"تم تجاوز عتامة الخلفية",
+    "advancedtext":"نص",
+    "dropzone":"إسقاط المنطقة",
+    "selectAll":"حدد الكل",
+    "deselectAll":"الغاء تحديد الكل"
   }
 }
